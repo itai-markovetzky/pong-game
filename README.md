@@ -42,7 +42,7 @@ This project is a basic implementation of the Pong game using Python and the Tur
 ![Pong Game Screenshot](https://github.com/itai-markovetzky/pong-game/blob/main/pong_game.jpg)
 
 ## Acknowledgments
-- This project was created as part of Dr. Angela Yu's Python course. Special thanks for the inspiration and guidance.
+- This project was created as part of Dr. Angela Yu's Python course.
 - Pong game idea and basic structure inspired by classic Pong arcade games.
 
 Feel free to fork the project, suggest improvements, or use it as a starting point for your own projects! 
