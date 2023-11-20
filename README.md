@@ -9,6 +9,7 @@ A simple implementation of the classic Pong game in Python using the Turtle grap
 - [Usage](#usage)
 - [Controls](#controls)
 - [Dependencies](#dependencies)
+- [Screenshot](#screenshot)
 - [Acknowledgments](#acknowledgments)
 
 ## Description
@@ -35,6 +36,10 @@ This project is a basic implementation of the Pong game using Python and the Tur
 ## Dependencies
 - Python 3.X (I have used 3.9)
 - Turtle library (No separate installation required)
+
+## Screenshot
+
+![Pong Game Screenshot](https://github.com/itai-markovetzky/pong-game/blob/main/pong_game.jpg)
 
 ## Acknowledgments
 - This project was created as part of Dr. Angela Yu's Python course. Special thanks for the inspiration and guidance.
